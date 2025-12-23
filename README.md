@@ -1,7 +1,13 @@
 <div align="center">
 
-  <!-- Typing header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+Welcome+to+My+GitHub!+%F0%9F%91%8B;Web+Developer+%7C+Java+%26+C%23+Desktop+Dev;ASP.NET+Core+Builder+%7C+Lua+Scripter;Government+GIS+%7C+Data+Viz+%26+Insights;Build+Useful+Systems.+Make+Data+Speak." alt="Typing SVG" />
+  <!-- Header -->
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome!&fontAlign=50&fontAlignY=40&color=0:0ea5e9,100:6366f1&fontColor=ffffff" />
+  </div>
+
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Government+GIS+%26+Data+Developer;ASP.NET+Core+%7C+C%23+%7C+Java+%7C+Lua;Tax+%26+Compliance+Analytics;Simplicity+over+complexity." alt="Typing SVG" />
+  </div>
 
   <br/>
 
