@@ -79,13 +79,20 @@
 ## 🚀 Featured Projects
 - 🧾 **POS ByteStream Interceptor (C#) — Transaction Stream Analyzer**
   - Built for **authorized testing environments** (VM / testing PC) to support **tax data collection & fiscal reporting**
+  - Captures **serial (COM/PORT) transaction byte streams** via a controlled monitoring layer, then forwards the stream to an analysis core
   - Converts **HexStream → readable text**, then structures it into transaction records
+  - **Service → Brain → Agent architecture**:
+    - **Capture Service**: listens to the monitored COM/PORT stream and publishes frames/events
+    - **Analyzer (“Brain”)**: parses + normalizes data, then applies AI-assisted extraction
+    - **Agent UI**: displays detected transactions and key fields in near real-time
   - Uses **AI-assisted filtering/extraction** to capture:
     - item name / qty (if present)
     - item price
     - item amount
     - total purchase / summary fields
-  - Output-ready for dashboards/reports (e.g., JSON/CSV pipeline)
+  - Output-ready for reporting pipelines (e.g., **JSON/CSV**), dashboards, and audit review
+  - 🔒 Focused on **compliance, traceability, and data validation** (test-environment, controlled access)
+
 
 - 🗺️ **Government GIS Development**
   - Spatial data workflows, mapping services, and geo-integrations for public-sector needs
