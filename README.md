@@ -21,13 +21,16 @@
 - 🧱 **ASP.NET Core** for scalable web systems & APIs
 - 🗺️ **Government GIS Development** (spatial data workflows, mapping, geo-services)
 - 📊 **Government Data Understanding & Visualization** (turning raw data into decisions)
+- 🔄 Integrate data from **multiple data sources** and ensure **consistency/accuracy** before reporting (incl. **Sekretaris Daerah**)
 - 🧠 Always exploring new tools, patterns, and better ways to ship maintainable systems
 
 ---
 
 ## 🧠 What I’m Into (Highlights)
 - ✅ **Data-driven systems** (dashboards, reports, visualization pipelines)
-- ✅ **GIS workflows** (spatial analysis, layers, map services, integrations)
+- ✅ **Government GIS workflows** (layers, spatial analysis, map services, integrations)
+- ✅ **Tax & data analysis** (measure **“Tingkat Kepatuhan” WP** and flag potential **underpayment risks** for review)
+- ✅ **Data reconciliation & validation** across multiple sources before executive reporting
 - ✅ **Clean architecture** (readable code > clever code)
 - ✅ **Automation & scripting** (especially **Lua** when it fits)
 
@@ -46,11 +49,16 @@
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗃️ Data & Visualization
+### 🗃️ Databases
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### ☁️ Cloud & Hosting
+![IIS](https://img.shields.io/badge/-IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -62,8 +70,8 @@
 
 ## 🧭 Current Mission
 > Build software that **simplifies complexity** — especially in **Government Data & GIS Visualization**,  
-> where clarity and accuracy matter most.
-> simplicity over complexity!
+> where clarity and accuracy matter most.  
+> **Simplicity over complexity.**
 
 ---
 
@@ -91,8 +99,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adamdev-id&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamdev-id&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
 ---
@@ -107,12 +115,11 @@
 ## 🔗 Connect With Me
 <div align="center">
 
-  <!-- Replace links -->
   <a href="https://github.com/adamdev-id">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/adamfriska/">
+  <a href="https://id.linkedin.com/in/adamfriska">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -120,7 +127,15 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
+  <a href="https://discord.com/users/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
 </div>
+
+<p align="center">
+  <sub>Discord: <b>typeshit1st</b></sub>
+</p>
 
 ---
 
