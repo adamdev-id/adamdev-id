@@ -61,8 +61,9 @@
 ---
 
 ## 🧭 Current Mission
-> Build software that **simplifies complexity** — especially in **government data & GIS**,  
+> Build software that **simplifies complexity** — especially in **Government Data & GIS Visualization**,  
 > where clarity and accuracy matter most.
+> simplicity over complexity!
 
 ---
 
