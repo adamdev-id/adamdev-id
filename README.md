@@ -22,6 +22,7 @@
 - 🗺️ **Government GIS Development** (spatial data workflows, mapping, geo-services)
 - 📊 **Government Data Understanding & Visualization** (turning raw data into decisions)
 - 🔄 Integrate data from **multiple data sources** and ensure **consistency/accuracy** before reporting (incl. **Sekretaris Daerah**)
+- 🤝 Coordinate with **Other Developers / Stakeholders** to align objectives, translate needs into requirements, and deliver solutions that support daily operational workflows across teams.
 - 🧠 Always exploring new tools, patterns, and better ways to ship maintainable systems
 
 ---
